@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">16. Analog clock and Digital clock</string>
+    <string name="item_setting">Setting</string>
 </resources>
